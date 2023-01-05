@@ -54,3 +54,6 @@ class Solution {
         return st.peek();
     }
 }
+
+
+Or implement using switch case
